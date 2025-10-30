@@ -1,4 +1,6 @@
-# EDGE-DETECTION
+# Ex:06 EDGE-DETECTION
+## Name: Aravindan D
+## Reg: 212223240012
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
